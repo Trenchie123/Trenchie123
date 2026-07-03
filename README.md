@@ -1,19 +1,9 @@
-# Hi there! 👋
-
-## About Me
-I'm a tech student and frontend web developer passionate about creating interactive, dynamic, and visually engaging web experiences. Outside of coding, I'm a video content creator, gamer, and manga enthusiast.
-
-## Current Projects
-- 🌐 Developing interactive and responsive web applications (including 3D web design).
-- 🎥 Creating and editing high-quality video content for gaming.
-
-## Tech Stack & Tools
-- **Development:** HTML5, CSS3, JavaScript, Three.js, C, SQL
-- **Creative & Editing:** CapCut, VN Video Editor, Photoshop
-
-## Contact Me
-- 📧 **Email:** [Insert your email here]
-- 📞 **Phone:** [Insert your phone number here]
-- 💼 **LinkedIn:** [Insert Link]
+# 💫 About Me:
+I'm a tech student and frontend web developer focused on creating interactive, dynamic, and visually engaging web experiences. When I'm not coding, I'm usually editing videos, gaming, or catching up on my favorite manga.<br><br>## 🚀 About Me<br>- 🎓 Currently studying **Computer Science / Information Technology**<br>- 💻 Passionate about **Frontend Web Development** & interactive design<br>- 🎨 Creative hobbyist who loves video editing and custom content creation<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxcks4mxrt1n) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rxcks4mxrt1n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gunna_Wunna_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martinrahif6@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
